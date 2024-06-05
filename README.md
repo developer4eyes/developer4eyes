@@ -67,5 +67,5 @@
 
 
 ![developer4eyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer4eyes&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer4eyes)](https://github.com/developer4eyes/github-readme-stats)
 
