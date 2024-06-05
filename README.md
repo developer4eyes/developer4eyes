@@ -53,3 +53,8 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 </div>
+
+<div>
+  ![developer4eyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer4eyes&show_icons=true&theme=radical)
+</div>
+
