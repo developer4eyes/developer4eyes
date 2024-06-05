@@ -65,7 +65,14 @@
 </div>
 
 
+<h3>💪work💪</h3>
+<div>
+  <a href="https://github.com/developer4eyes/Spring-Project-fork">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developer4eyes&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/developer4eyes/JSP_Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developer4eyes&repo=convoychat" />
+  </a>
+</div>
 
-![developer4eyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer4eyes&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer4eyes)](https://github.com/developer4eyes/github-readme-stats)
 
