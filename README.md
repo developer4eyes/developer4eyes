@@ -54,7 +54,18 @@
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 </div>
 
+<h3 align="center">📮Contact📮</h3>
+<div align="center">
+  <a href="mailto:darkjjun68@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/non_glossy/">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+
 
 ![developer4eyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=developer4eyes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer4eyes&layout=compact)
+
 
